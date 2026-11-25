@@ -15,7 +15,6 @@ int main() {
         cin >> bt[i];
         rem[i] = bt[i];
     }
-
     cout << "Enter time quantum: ";
     cin >> tq;
 
