@@ -33,7 +33,6 @@ int main() {
         ct[i] = time;
         tat[i] = ct[i];
         wt[i] = tat[i] - bt[i];
-
         avgWT += wt[i];
         avgTAT += tat[i];
 
