@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
     int n, max = 100;
-
     cout << "Enter number of processes: ";
     cin >> n;
 
