@@ -65,7 +65,6 @@ int main() {
 
     cout << "\nSystem is in safe state.";
     cout << "\nSafe Sequence: ";
-
     for(int i = 0; i < n; i++)
         cout << "P" << safe[i] << " ";
 
